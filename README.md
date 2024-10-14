@@ -2,6 +2,6 @@
 
 
 ## Proyectos de Programación
-🤖 [Bot automatizado de recetas para twitter. Python, Panda, Tweepy, Scheduled, Kaggle.](https://github.com/Andiiencode/recipebot)
+🤖 [Bot automatizado de recetas para twitter. ](https://github.com/Andiiencode/recipebot) Python, Panda, Tweepy, Scheduled, Kaggle.
 
 
